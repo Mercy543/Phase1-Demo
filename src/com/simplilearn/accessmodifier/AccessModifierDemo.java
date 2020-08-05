@@ -10,7 +10,7 @@ class Person {
 		{
 			System.out.println("Age is:" + age);
 		}
-				0kljghfgd-=
+			
 						
 		
 		public int getAge()
