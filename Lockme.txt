@@ -1,0 +1,4 @@
+mercy12,ebay,mercy12user,mercy12pw
+mercy_user,facebook,mercyfacebook,mercyfacebook_pass
+mercy_user,instagram,mercy_unsta_user,mercy_insta_pass
+mercy_user,Amazon,Amazon_username,Amazon_password
